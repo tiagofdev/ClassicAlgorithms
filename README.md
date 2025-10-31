@@ -38,11 +38,11 @@ The project is structured into two main components:
 
 | Component     | Required Version |
 |---------------|------------------|
-| Java          | 17               |
-| Maven         | 3.9.x            |
-| Node.js       | 18.x             |
-| npm           | 10.x             |
-| Angular CLI   | 17.x             |
+| Java          | 21               |
+| Maven         | 3.9            |
+| Node.js       | 18             |
+| npm           | 10             |
+| Angular CLI   | 14             |
 
 ### 🖥️ Environment Setup
 
