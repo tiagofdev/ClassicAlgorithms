@@ -25,11 +25,12 @@ The project is structured into two main components:
 
 ---
 
-!imgs/[img_4.png](img_4.png)
-!imgs/[img_1.png](img_1.png)
-!imgs/[img_2.png](img_2.png)
-!imgs/[img_3.png](img_3.png)
+![Classic Algorithms](imgs/img_4.png)
+![Menu](imgs/img_1.png)
+![Info](imgs/img_2.png)
+![Try it out](imgs/img_3.png)
 
+---
 
 ## 2. 🚀 Getting Started
 
