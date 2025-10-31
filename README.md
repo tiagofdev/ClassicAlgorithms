@@ -25,10 +25,10 @@ The project is structured into two main components:
 
 ---
 
-![img_4.png](img_4.png)
-![img_1.png](img_1.png)
-![img_2.png](img_2.png)
-![img_3.png](img_3.png)
+!imgs/[img_4.png](img_4.png)
+!imgs/[img_1.png](img_1.png)
+!imgs/[img_2.png](img_2.png)
+!imgs/[img_3.png](img_3.png)
 
 
 ## 2. 🚀 Getting Started
